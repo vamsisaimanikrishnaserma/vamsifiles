@@ -1,0 +1,147 @@
+Can you brief interduce you self?
+
+-->Hi my name is vamsikrishna
+  
+-->iam started my carrier as a testing excutive 1.5 yr of back with mindtree.currently iam working on Test engineer.
+	
+-->My responsibilities is understand the business requirements specifications and high level scenaris and to convert them into test cases automation scripts 
+   if required
+
+((-->Execution of test cases and reporting of defects to the developer if there any get them fixed.i have experience on functional testing and Automation,Regression,Smoke,
+   sanity.
+
+  -->In my previous project  i have worked on automation testing where we have Post man for Api testing and test complete using java script.
+  
+  --> For building management & Test cases management we have used Azure devops.))
+
+(-->Execution of test cases and reporting of defects to the developer if there any get them fixed. i have experience on functional testing and Automation,Regression,Smoke,
+   sanity,web analytics and mobile testing.
+2
+-->In my previous project  i have worked on automation testing where we have selenium with java and TestNG Cucumber frame work for approch BDD. we have page object model 
+   where we have separated our testcases with page object. 
+
+-->For building management tool we using Maven for verson controling  we are using Git and for automating our jobs for nighly.
+
+--> for defect management & test case management  we have used  JIRA, Test Rail & HP ALM. )
+
+
+--> Iam working on Agile management we have daily stand up calls and we have  2- week sprint cycle .iam part of 8-members team out of which we are 3- tester,
+    4dev,1 manager,1 scrum master. 
+
+--> Then we have our daily scrum meeting where we used to tell our previous day action what we  did.what we are planning for today  and if we have blockers to discuss
+    product owner scrum master help to us resolved that blocker after that i need pending tasks i need to action.
+--> whether  creating test cases and execution and defects retesting if any.	
+============================================================================================================================================================================
+Tell me You day to day activities?
+
+--> First thing i do after login my system. i check active sprint in azure for our project.there i can see my assigned tasks and open tasks. after check my mail any 
+    importnat need to take action on. then we have our daily scrum meeting and where we used to tell previous day action and wht we did and what plan today and we 
+	have any doubts any blockers discussed with product owner and scrum master help to us resolve our doubts.after that i need to take the pending tasks need to do 
+	create test cases and execution and defects retesting if any.
+============================================================================================================================================================================
+QA Testing Activities/Responsibles?
+
+--> Understanding the Requirement and specifications of the application
+--> identifing required test scenario
+--> Design test cases valid scenarios
+--> Log test results(How many test cases pass/fail)
+-->Defect reporting
+-->Retest fixed defects
+-->Report the test lead abot task status
+-->Participated in regular team meetings
+-->Creating automation testing for regression testing.
+============================================================================================================================================================================
+What are the scenarios not automated?
+
+ --> in my experience 
+    1. CAPTCHA Scenarios: best way to handle is tell your dev team diable make it static
+	2. Video streaming scenarios:Selenium wont be recorganise video controls.
+	3. Code reading scenarios: If your web apps is bar codes and qr codes it's not benficial automate it.
+	4. Crash recovery scenarios: you might want to testapplication crash recovery.this scenario best for manually.
+	5. performance testing: it can be automated but its best not to automate performance testing using selenium.
+======================================================================================================================================================================
+ What are the challenges faced in selenium?
+ 
+ --> Supports only web bases application: Selenium only automated testing for web based application can't test window based application.
+ 
+ --> Timeout/Synch isssue: Whether the call it a timeout or synch issue.it is the one of the most common challenge in selenium test automation.if you don't issue carefully.
+ 
+ --> No Captcha Handling: With selenium.you can't handle captcha completly. Though there are some third partytools that can help in automation captcha.
+ 
+ --> No Reporting: No doubts selenium can enormosly improve automation testing capabilitybut due to some limitations.it generate good testing reports.
+ 
+ -->Need programming Language support:
+ 
+ -->Windows  Pop-Up:
+ 
+ --> Identifying Dynamic Elements:
+ 
+ --> Cross browser Testing:
+ 
+ --> Mobile apps:
+ 
+ --> Multi tab testing:
+ 
+ -->Scalability:
+ =================================================================================================================================================================================
+ What is the frame work?
+ --> I have knowledge on BDD frame work.
+ 
+ --> in Feature file multiple features are there and which are present feature folder like different test scenarios into different feature files we have map with  
+     different map with stepdefinition files which are prsent in step definition packages of src test case steps in the feature file.
+	 and comming to the testdata in the test data we have two types of test data project like static dynamic.
+ --> STATIC DATA: we have used property files andstore the testdata like error messagesfile lables and test level button lables these are loaded is called state detected class.
+ --> Dyanamic Data: in the dyanamic test data we have used json files in the BDD Scenarios we sending the test scenarios id from which should pickup an IDEvery timeout
+                    every field what we done.
+===========================================================================================================================================================================
+What is MAVEN?
+
+--> maven is a project management tool that is based on (POM Page object model).it is used for build the project and dependancy and documentation.
+============================================================================================================================================================================
+	Roles and responsibilities;
+	
+I have many responsibilities while testing the project like
+ Identification of test cases for automation from existing test case documentation
+ Applying and designing test automation strategy document
+ Creating automation for testplan
+ And also I have participated in selenium environment setup with ide
+ Also creating enhancing debugging running testcases
+  I have involved organizing and monitoring defect management process handling changes and conducting regression tests
+ I also involved to find solutions for issues related to object identify,issues in error handling co ordination of the members of the test team and development team to solve issues.
+ Generating the Test scenarios and Test cases.
+ Generating Regression Test scripts by extracting the requirements that need to be tested from available documentation and/or liaising with the relevant people.
+ Developed Automation Test Scripts.
+ Performed Smoke, Functional, System Integration, Retesting.
+ Experience in Designing and implementation of TestNG framework with Web driver.
+ Performed parameterization to implement Hybrid framework
+ I also used to interact with people of the client side to solve problems and update the situation
+ Tracking and reporting the bugs using Jira.
+
+
+
+ Conduct Internal Test Case Peer Reviews.
+ Participated in Daily Scrum Meetings.
+=========================================================================================================================================================================================
+--> why areyou pblm?
+      yah vinu still iam not receving any project call iam mail iam mail talent management and other Project managers whethere 
+	 
+	 
+--> what are you doimng now?
+
+A: When i came to bench doing some cources i completed selenium cources in Edureka and 2 days back i requested to TOSCA cource now iam doing learn the cources for TOSCA
+
+====================================================================================================================================================================================
+Assertions: Asser,verifuy,wait for
+
+Exceptions: NoSuchElement exception, NoSuch window exception, Nosuchframe exception, Steleelementrelavence exception, Time out exception
+
+jenkins keywords: 
+
+	 
+				
+    
+	 
+	 
+ 
+ 
+   
