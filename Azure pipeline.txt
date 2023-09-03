@@ -1,0 +1,28 @@
+Create your first Java pipeline
+Sign-in to your Azure DevOps organization and go to your project.
+
+Go to Pipelines, and then select New pipeline.
+
+Do the steps of the wizard by first selecting GitHub as the location of your source code.
+
+You might be redirected to GitHub to sign in. If so, enter your GitHub credentials.
+
+When you see the list of repositories, select your repository.
+
+You might be redirected to GitHub to install the Azure Pipelines app. If so, select Approve & install.
+
+Azure Pipelines will analyze your repository and recommend the Maven pipeline template.
+
+When your new pipeline appears, take a look at the YAML to see what it does. When you're ready, select Save and run.
+
+You're prompted to commit a new azure-pipelines.yml file to your repository. After you're happy with the message, select Save and run again.
+
+If you want to watch your pipeline in action, select the build job.
+
+You just created and ran a pipeline that we automatically created for you, because your code appeared to be a good match for the Maven template.
+
+You now have a working YAML pipeline (azure-pipelines.yml) in your repository that's ready for you to customize!
+
+When you're ready to make changes to your pipeline, select it in the Pipelines page, and then Edit the azure-pipelines.yml file.
+
+Learn more about working with Java in your pipeline.
